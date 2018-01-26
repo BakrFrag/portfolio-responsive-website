@@ -1,0 +1,34 @@
+.logoimage {
+    border-radius: 30%;
+    width: 304px;
+    height: 236px;
+}
+
+.h1header {
+    display: block;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.h5header {
+    display: block;
+    text-align: right;
+    text-transform: capitalize;
+}
+
+.mainimage {
+    max-width: 100%;
+    width: 100%;
+}
+
+h2,
+p {
+    text-align: center;
+}
+
+.footerimage {
+    width: 100%;
+    max-width: 100%;
+    height: 150px;
+    max-height: 150px;
+}
